@@ -1,0 +1,2 @@
+defmodule MixCodegenEctoMigration do
+end
